@@ -1,0 +1,1 @@
+ tk.Label(self.root, image=self.bg_photo).place(x=0, y=0, relwidth=1, relheight=1)
